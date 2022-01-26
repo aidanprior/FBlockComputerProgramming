@@ -13,7 +13,6 @@ speed(7)
 
 
 for x in range(1,30):
-    # dot(2*penSize)
     forward(x*distance*penSize)
     right(angle)
 
